@@ -11,6 +11,16 @@ public class PrmitiveTypes {
         boolean isTrue = true;
         boolean isFalse = false;
         char character = 'F';
+
         System.out.println("age = " + age);
+        System.out.println("number = " + numberLong);
+        System.out.println("Salary = " + salaryDouble);
+        System.out.println("Salary 2 = " + salaryFloat);
+        System.out.println("age = " + ageByte);
+        System.out.println("age = " + ageShort);
+        System.out.println("It is true = " + isTrue);
+        System.out.println("It is false = " + isFalse);
+        System.out.println("character = " + character);
+
     }
 }
